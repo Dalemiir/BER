@@ -1,4 +1,4 @@
-/// POP 2020-01-22 projekt 2 Chmielecki Damian EIT 3 180070   Code::Blocks 17.12
+/// Projekt 2 Chmielecki Damian Code::Blocks 17.12
 
 #include <iostream>
 #include <fstream>
