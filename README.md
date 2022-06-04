@@ -1,1 +1,1 @@
-# BER
+# Koder i dekoder BER
